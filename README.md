@@ -1,6 +1,6 @@
 # iOSImagedownloader
 
-This tool helps to download screenshots from Apple App Store.
+This tool helps to download screenshots in high resolution from Apple App Store.
 
 # Steps
 
